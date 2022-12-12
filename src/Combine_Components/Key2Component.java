@@ -43,7 +43,7 @@ public class Key2Component {
 		Key2Component KC = new Key2Component();
 
                 System.out.println("--------------------------------------------------------");
-                System.out.println("    Cipher key Component Tool for Kakaobank    ");
+                System.out.println("    Bruce.Lee Cipher key Component Tool    ");
                 System.out.println("--------------------------------------------------------");
 
 		Scanner sc = new Scanner(System.in);
